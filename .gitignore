@@ -1,0 +1,10 @@
+# Python stuff
+venv/
+
+# Secrets
+.env
+.env.*
+
+# IDE stuff
+*.iml
+.idea/
